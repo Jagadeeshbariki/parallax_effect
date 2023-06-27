@@ -4,7 +4,7 @@ body{
 #back{
     background-image: url(isrob.jpg);
     /* background-origin: content-box; */
-    height:20`00px;
+    height:auto;
     width: 100%;
     background-size: 100% 100%;
     background-attachment: fixed;
@@ -63,7 +63,9 @@ h2{
 }
 
 .image{
-    margin:0 70px 0 ;
+    height: 200px;
+    width: 200px;
+    margin:0 50px 0 ;
     border-radius: 25%;
 }
 #rocket p{
@@ -90,7 +92,8 @@ h2{
     .image{
         width: 50px;
         height: 50px;
-        margin: 0 5mm 0;
+        margin: 0 35px 0  ;
+       
     }
     #in{
         border: none;
@@ -107,7 +110,7 @@ h2{
     .image{
         width: 100px;
         height: 100px;
-        margin: 0 15px 0 ;
+        margin: 0 5px 0;
     }
 }
 
@@ -117,8 +120,8 @@ h2{
         width: 150px;
     }
     .image{
-        width: 150px;
-        height: 150px;
-        margin: 0 45px 0 ;
+        width: 120px;
+        height: 120px;
+        margin: 0 30px 0;
     }
 }
