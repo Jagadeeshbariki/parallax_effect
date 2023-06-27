@@ -63,7 +63,7 @@ h2{
 }
 
 .image{
-    margin: 0 30px 0 30px;
+    margin:0 70px 0 ;
     border-radius: 25%;
 }
 #rocket p{
@@ -90,7 +90,12 @@ h2{
     .image{
         width: 50px;
         height: 50px;
-        margin: 0 15px 0 15px;
+        margin: 0 5mm 0;
+    }
+    #in{
+        border: none;
+        padding: 5px;
+        margin-left: 5px;
     }
 }
 
@@ -102,7 +107,7 @@ h2{
     .image{
         width: 100px;
         height: 100px;
-        margin: 0 10px 0 10px;
+        margin: 0 15px 0 ;
     }
 }
 
@@ -114,5 +119,6 @@ h2{
     .image{
         width: 150px;
         height: 150px;
-        margin: 0 20px 0 20px;
+        margin: 0 45px 0 ;
+    }
 }
